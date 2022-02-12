@@ -1,0 +1,20 @@
+[
+  {
+  "name": "Stone",
+  "id": 1,
+  "edible": false,
+  "fishing": 0,
+  "exploit": 0,
+  "effects": [],
+  "recipes": []
+},
+{
+  "name": "Wood",
+  "id": 2,
+  "edible": false,
+  "fishing": 0,
+  "exploit": 0,
+  "effects": [],
+  "recipes": []
+}
+]

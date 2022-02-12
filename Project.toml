@@ -3,6 +3,15 @@ uuid = "86d7381b-ddef-4a6c-97ca-0cb93d76fbee"
 authors = ["キャンド <amehikoji@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Ekztazy = "c8b112a7-7677-4d35-8651-7c5b5cba290e"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MySQL = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
+
 [compat]
 julia = "1"
 
