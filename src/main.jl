@@ -27,6 +27,8 @@ using Ekztazy
 ### | Maybe handlers should be moved to a sub folder, 
 ### | so each series of command->component has its own folder.
 ### +--
+### | Maybe make a function in separate modules for each handler series.
+### +--
 ### | The getClient() function is just to prevent having to do global
 ### | on each handler, instead you can just have a default argument
 ### | which shouldn't mess with Ekztazy, unless you try to do this 
